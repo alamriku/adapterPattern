@@ -1,0 +1,16 @@
+{
+    "name": "riku/adapter-pattern",
+    "description": "adapter or wrapper pattern using php",
+    "authors": [
+        {
+            "name": "Riku",
+            "email": "alamriku069@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
